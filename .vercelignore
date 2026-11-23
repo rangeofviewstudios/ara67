@@ -1,0 +1,3 @@
+# Internal project files that do not belong on the host.
+*.pdf
+AGENTS.md
